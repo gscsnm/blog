@@ -2,7 +2,7 @@ BaseURL = "https://gscsnm.github.io/blog/"
 LanguageCode = "zh-CN"
 HasCJKLanguage = true
 Title = "aaaakkkkk bloqg"
-Theme = "pacman"
+Theme = "diary"
 pygmentsStyle = "default"
 pygmentsUseClasses = true
 
